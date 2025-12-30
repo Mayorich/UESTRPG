@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "6a6ec4cec59dbb58",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc0b9ebce83afa04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fffe7ef43969c58d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bfed62b89e0e97f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1933fb3722458297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "027e92bbb7c27e4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f72ec7f2423dccd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2b64639061694b6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a30e7c0100f8346",
+    "type": "split",
+    "children": [
+      {
+        "id": "83db0a1d97367968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6d126752d2010cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "e4b080999b862551",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "df2a497ca3e6f798",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "927de4844ad2309a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "8f50cb8fdc20a0b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fffe7ef43969c58d",
+  "lastOpenFiles": [
+    "00_Система/Шаблоны/Правило.md",
+    "00_Система/Шаблоны/Артефакт.md",
+    "00_Система/Basic_Rules_1.4/09_Мастер_и_мир",
+    "00_Система/Basic_Rules_1.4/08_Состояния",
+    "00_Система/Basic_Rules_1.4/07_Снаряжение",
+    "00_Система/Basic_Rules_1.4/06_Магия",
+    "00_Система/Basic_Rules_1.4/05_Бой",
+    "00_Система/Basic_Rules_1.4/04_Навыки_и_черты",
+    "00_Система/Basic_Rules_1.4/03_Классы",
+    "00_Система/Basic_Rules_1.4/02_Расы",
+    "00_Система/Basic_Rules_1.4/01_Создание_персонажа",
+    "00_Система/Basic_Rules_1.4/01_.md",
+    "00_Система/Basic_Rules_1.4/00_Оглавление.md",
+    "00_Система/Как_я_веду_игру.md",
+    "00_Система/Basic_Rules_1.4",
+    "00_Система/Шаблоны/НПС.md",
+    "00_Система/Шаблоны/Сцена.md",
+    "00_Система/Шаблоны/Локация.md",
+    "00_Система/Шаблоны/Культ.md",
+    "00_Система/Шаблоны/Квест.md",
+    "Без названия.md",
+    "Добро пожаловать.md"
+  ]
+}
