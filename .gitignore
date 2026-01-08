@@ -1,2 +1,16 @@
+# Git
 .gitattributes
-.obsidian
+
+# Obsidian UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache / temp
+.obsidian/cache/
+.obsidian/*cache*/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
